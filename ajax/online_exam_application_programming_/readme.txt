@@ -1,0 +1,1 @@
+checkAnswer() functio e correct variable e kichu problem ache 

@@ -1,0 +1,9 @@
+#image{
+	background: url(../imgs/download.png);
+	height: 50px;
+	width: 50px;
+   
+}
+@keyframes ball-bounce{
+	from{background-position: 0px;}to{background-position: 245px;}
+}

@@ -1,0 +1,60 @@
+  body{
+    top: 0;
+    width: 800px;
+    margin: 0 auto;
+  }
+  #header{
+     height: 100px;
+     background: #D2E9FF;
+     border-bottom: #09F 1px solid;
+  }
+  #logo{
+     height: 75px;
+     font-size: 46px;
+     padding: 0px 12px;
+     border-bottom: #09F 1px dashed;
+  }
+  #headermenusystem{
+     margin-left: 20px;
+     width: 800px;
+  }
+  #headermenusystem>div{
+     float: left;
+     margin: 0px 20px;
+  }
+ .dropmenu{
+      display: none;
+      position: absolute;
+      top: 100px;
+      width: 120px;
+      background: #D2E9FF;
+      z-index: 2;
+      padding: 4px;
+      border: #0385CB 3px solid;
+      padding: 4px;
+      border-top: none;
+      border-radius: 0px 0px 8px 8px;
+  }
+ .dropmenu>a
+  {
+    display: block;
+    margin: 4px;
+    padding: 7px;
+    font-size: 14px;
+   text-decoration: none;
+   border-radius: 3px;
+   border: #666 1px solid;
+   color: #000;
+   background: #E8E8E8;
+  }
+  .dropmenu>a:hover
+  {
+    background: #fff;
+    color: #06F;
+    border: #06F 1px solid;
+
+  }
+  #restofpage
+  {
+     padding: 36px;
+  }

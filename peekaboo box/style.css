@@ -1,0 +1,10 @@
+#peekaboo{
+	position: fixed;
+	bottom: 0px;
+	right: -352px;
+	background: #C4E6EF;
+	height: 200px;
+	width: 300px;
+	border: 2px dashed gray;
+	font-size: 48px;
+}

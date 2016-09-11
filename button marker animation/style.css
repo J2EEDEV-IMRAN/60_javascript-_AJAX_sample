@@ -1,0 +1,22 @@
+#btn_marker{
+	width: 0px;
+	position: absolute;
+	border: 1px solid #000;
+	border-bottom: none;
+	height: 10px;
+	display: none;
+	transition:left 0.5s ease 0s,width 0.5s linear 0s;
+	top: 67px;
+}
+#mymenue >button{
+  padding: 10px 30px;
+}
+#mycontent
+{
+height: 200px;
+width: 200px;
+background: #f3f3f3;
+color: #000;
+border: 1px solid green;
+
+}

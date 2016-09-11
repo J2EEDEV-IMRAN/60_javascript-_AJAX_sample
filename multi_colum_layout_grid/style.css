@@ -1,0 +1,22 @@
+#grid_container{
+	width:900px;
+	height: 860px;
+	border: 2px dashed #999;
+	margin: 0px auto; 
+}
+#grid_container>div{
+	position: absolute;
+	width: 291px;
+	border: 1px solid #000;
+
+}
+#grid_container>div:nth-child(2n+0){
+	background: #FFDC64;
+}
+#grid_container>div:nth-child(2n+1)
+{
+	background: #FEC910;
+}
+
+#grid_container>div>div{font-size: 30px;color: #D9A800;}
+

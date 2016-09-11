@@ -1,0 +1,10 @@
+#parallex1{
+	background: url(../imgs/allauddin.jpg) no-repeat 20px 200px ;
+	width: 100%;
+	height: 800px;
+	position: fixed;
+}
+#content
+{
+	position: absolute;
+}

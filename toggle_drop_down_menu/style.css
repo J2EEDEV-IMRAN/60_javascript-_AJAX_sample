@@ -1,0 +1,48 @@
+  body{
+  	margin: 0px;
+  	background: #999;
+  }
+  #topbar{
+      background: linear-gradient(#666, #000);
+      height: 60px;
+  }
+  #topbar>#logo
+  {
+   float: left;
+   width: 140px;
+   height: 35px;
+   font-size: 36px;
+   margin: 5px 0px 0px 30px;
+   color: #999;
+  }
+#topbar>#sections_btn_holder{
+	float: left;
+  width: 144px;
+  height: 46px;
+  padding-top: 16px;	
+
+}
+#topbar>#sections_btn_holder>button{
+	background: #F90;
+}
+#topbar>#section_panel{
+   position: absolute;
+   height: 0px;
+   width: 550px;
+   top: 60px;
+   left: 160px;
+   background: #000;
+   transition:height 0.3 linear 0s;
+   overflow: hidden;
+   border-radius: 0px 0px 8px 8px;
+   z-index: 1000;
+}
+#topbar>#section_panel>div
+{
+  background: #333;
+  color: #FC0;
+  padding: 20px;
+  margin: 10px;
+  height: 238px;
+
+}

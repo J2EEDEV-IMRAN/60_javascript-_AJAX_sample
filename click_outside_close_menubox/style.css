@@ -1,0 +1,33 @@
+#box1{
+	top: 10px;
+	left: 10px;
+	padding: 20px;
+	height: 260px;
+	width: 260px;
+	background:#E2E2E2;
+	display: none;
+	position: absolute;
+}
+#box2{
+	top: 10px;
+	left: 270px;
+	padding: 20px;
+	height: 260px;
+	width: 260px;
+	background:#E2E2E2;
+	display: none;
+	position: absolute;
+}
+#box3{
+	top: 10px;
+	left: 530px;
+	padding: 20px;
+	height: 260px;
+	width: 260px;
+	background:#E2E2E2;
+	display: none;
+	position: absolute;
+}
+
+
+

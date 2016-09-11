@@ -1,0 +1,20 @@
+.reveal{
+	height: 280px;
+	width: 280px;
+	border: 1px solid #000;
+	margin: 24px;
+	float: left;
+}
+.reveal>img{
+	position: absolute;
+}
+.reveal>.img2{
+clip: rect(0px,140px,280px,0px);
+}
+.reveal > .activator{
+	position:absolute;
+	width:280px;
+	height:280px;
+	opacity:0;
+	cursor: e-resize;
+}

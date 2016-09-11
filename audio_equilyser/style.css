@@ -1,0 +1,10 @@
+body {margin: 0px;color: #000;}
+div#mp3_player{width: 500px;background: #000;height: 60px;padding: 5px;margin: 50px auto;}
+div#mp3_player>div>audio{width: 500px;height: 30px;float: left;}
+div#mp3_player>canvas{width: 500px;float: left;height: 30px;background: #002D3C;}
+
+
+
+
+
+

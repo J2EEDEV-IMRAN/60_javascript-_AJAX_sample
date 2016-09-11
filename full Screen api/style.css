@@ -1,0 +1,11 @@
+body {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+}
+#wrap {
+	width: 100%;
+	background: #FFF;
+	padding: 40px;
+}
